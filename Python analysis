@@ -1,0 +1,12 @@
+CODE:
+import datetime
+
+# Current date
+today = datetime.date.today()
+
+today
+
+
+
+Result:
+datetime.date(2024, 7, 17)
